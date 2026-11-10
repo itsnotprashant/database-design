@@ -15,7 +15,7 @@ from machine_lock import is_allowed
 DB_SETTINGS = {
     "host": "localhost",
     "user": "root",
-    "password": "password",
+    "password": "********",
     "database": "grade_db",
     "autocommit": True,  # save every change right away
 }
